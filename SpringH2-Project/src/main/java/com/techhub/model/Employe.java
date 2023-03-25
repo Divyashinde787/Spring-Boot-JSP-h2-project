@@ -27,7 +27,7 @@ public class Employe {
 	@Override
 	public String toString() 
 	{
-	return "User [id=" + id + ", uername=" + uname + "]";
+	return "Employe [id=" + id + ", uername=" + uname + "]";
 	}
 
 }
